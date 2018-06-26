@@ -1,12 +1,12 @@
-# fenrir
+# socrates
 Proxy based unit testing library built for vorge
 
 ## WIP (ignore below code)
 
 ```javascript
-const Mock = require('fenrir/core/Mock');
-const Specification = require('fenrir/core/Specification');
-const Spy = require('fenrir/core/Spy');
+const Mock = require('socrates/core/Mock');
+const Specification = require('socrates/core/Specification');
+const Spy = require('socrates/core/Spy');
 
 const Connection = require('../../modules/Connection');
 const Server = require('../../core/Server');
