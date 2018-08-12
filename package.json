@@ -1,0 +1,19 @@
+{
+  "name": "socrates",
+  "version": "1.0.0",
+  "description": "Proxy based unit testing library built for vorge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyclonic-games/socrates.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cyclonic-games/socrates/issues"
+  },
+  "homepage": "https://github.com/cyclonic-games/socrates#readme"
+}
